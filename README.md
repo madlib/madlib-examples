@@ -1,2 +1,2 @@
 # madlib-examples
-Examples of how to use MADlib
+Examples on how to use MADlib
